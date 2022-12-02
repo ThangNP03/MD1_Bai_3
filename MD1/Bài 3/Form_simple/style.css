@@ -1,0 +1,26 @@
+.outside{
+    background-color:aqua ;
+    width: 900px;
+    border: solid 1px #000;
+    padding: 30px;
+
+}
+.inside{
+    background-color: white;
+    padding : 1px;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color : #fff;
+    background-color: #ff4900ed ;
+    padding: 20px;
+    margin: 5px;
+
+}
+.name{
+    color: blue;
+}
+td{
+    color : red;
+}

@@ -1,0 +1,29 @@
+.input1{
+    margin-bottom: 15px ;
+    margin-top: 10px
+}
+.table-1{
+    color:red;
+}
+.schedule{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.color-table{
+    background-color: #fdf102eb;
+}
+.table-one{
+    background-color: #fff;
+}
+.table-tow{
+    background-color: #fd9402fa;
+}
+.table-top{
+
+    font-size: 25px;
+    color: #375BFF;
+}
+.table-right{
+    text-align: right;
+}

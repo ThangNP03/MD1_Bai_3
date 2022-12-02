@@ -1,0 +1,25 @@
+.table-color{
+    background-color: #f24208d6;
+    border-collapse: collapse;
+
+}
+.numer-top{
+    padding: 20px;
+    background-color: #f24208d6;
+}
+.left-bg{
+    background-color: white;
+    padding : 20px;
+}
+.right-bg{
+    background-color: black;
+    padding:20px;
+
+}
+.bottom-table{
+  padding: 7px;
+}
+.outside{
+    padding: 5px;
+}
+
